@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("git");
         System.out.println("g4");
         System.out.println("master");
+        System.out.println("phus");
     }
 }
